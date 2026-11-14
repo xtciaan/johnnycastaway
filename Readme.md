@@ -1,4 +1,4 @@
 Johnny Castaway - Running in Dosbox on the Web
 
-https://huntergdavis.github.io/johnnycastaway/
+https://xtciaan.github.io/johnnycastaway/
 
